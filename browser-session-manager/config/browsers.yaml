@@ -1,0 +1,13 @@
+browsers:
+  chrome:
+    enabled: true
+    debug_port: 9222
+  brave:
+    enabled: true
+    debug_port: 9223
+  edge:
+    enabled: true
+    debug_port: 9224
+  firefox:
+    enabled: true
+    debug_port: 9225

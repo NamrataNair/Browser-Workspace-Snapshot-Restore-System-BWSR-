@@ -1,0 +1,20 @@
+{
+    "machine": "OFFICE-LAPTOP",
+    "timestamp": "2026-06-23T18:00:00",
+    "browsers": [
+        {
+            "browser": "chrome",
+            "windows": [
+                {
+                    "incognito": true,
+                    "tabs": [
+                        {
+                            "url": "https://github.com",
+                            "title": "GitHub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
